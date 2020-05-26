@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>picture/buttom2.png</file>
+        <file>picture/logo.jpg</file>
+        <file>picture/map1.jpg</file>
+        <file>picture/startbutton.png</file>
+        <file>picture/timg.jpg</file>
+        <file>picture/title.png</file>
+        <file>picture/towerashe.png</file>
+        <file>picture/pic.png</file>
+        <file>picture/copybase.png</file>
+        <file>picture/timga.png</file>
+        <file>picture/ashecopy.jpg</file>
+        <file>picture/tristana.jpg</file>
+        <file>picture/tristower.png</file>
+        <file>enemy/dogface.png</file>
+        <file>enemy/dogface1.png</file>
+        <file>enemy/dragon1.png</file>
+        <file>enemy/dragon2.png</file>
+        <file>enemy/draven.png</file>
+        <file>enemy/enemy1.png</file>
+        <file>enemy/enemy2.png</file>
+        <file>enemy/yasuo.png</file>
+        <file>picture/bullet/trisbullet.png</file>
+        <file>enemy/blood1.png</file>
+        <file>enemy/blood2.png</file>
+    </qresource>
+</RCC>
